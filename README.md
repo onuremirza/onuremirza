@@ -8,7 +8,7 @@ My expertise covers both front-end and back-end development, allowing me to crea
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [onuremirza@hotmail.com](mailto:onuremirza@hotmail.com)
-* 🧠  I'm learning Node.JS
+* 🧠  I'm learning ASP.NET
 
 ### Skills
 
